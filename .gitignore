@@ -1,0 +1,8 @@
+chitchat-frontend/node_modules
+
+chitchat-frontend/build
+
+chitchat-backend/node_modules
+
+chitchat-backend/.env
+chitchat-backend/.DS_Store
